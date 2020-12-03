@@ -139,6 +139,10 @@ if(gameState===PLAY){
   fill("black");
  text("Score : " +score ,400,30);
   
+  textSize(12);
+  fill("black");
+  text("Hit the bricks to score points" ,30,20);
+  
   
 }
 
